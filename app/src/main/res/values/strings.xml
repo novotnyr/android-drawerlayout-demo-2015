@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Obchod</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="openDrawer">Otvoriť</string>
+    <string name="closeDrawer">Zatvoriť</string>
+
+
+    <string-array name="shopNavigationItems">
+        <item>Hry</item>
+        <item>Knihy</item>
+        <item>Filmy</item>
+    </string-array>
+</resources>
+
